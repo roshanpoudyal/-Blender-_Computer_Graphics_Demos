@@ -3,7 +3,7 @@
   * All blender demos and practices
   
 # Install latest blender (linux):
-  1. Download [latest blender][https://www.blender.org/download/] from the blender website.
+  1. Download [latest blender](https://www.blender.org/download/) from the blender website.
   2. Extract the folder in the __~/Downloads/__ folder itself (can be extracted anywhere!).
   3. Whatever the extracted folder name is, *rename* it to __blender__(for simply making it easy).
   4. Copy this whole folder to __/opt/__ folder.
